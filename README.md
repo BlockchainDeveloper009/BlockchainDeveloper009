@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning Solidity, NFT, Metaverse...
 - 💞️ I’m looking to collaborate on Hackathons, Build NFT projects.
 - 📫 How to reach me twitter: @harrypks19 and linkedin: https://www.linkedin.com/in/hari-g-krishna-a69846229/
-- 👀 Checkout my finished products
+- 👀 Checkout my finished products.
+
   Project1: Beta of Fractal Fantasy Web3 site.
           https://nextjsfractalfantasy-devbranch-deployv1-harrypks19-gmailcom.vercel.app/
+  Project2: Working on Banks using D'Bond
 
 <!---
 BlockchainDeveloper009/BlockchainDeveloper009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
