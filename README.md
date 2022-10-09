@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Hackathons, Build NFT projects.
 - 📫 How to reach me twitter: @harrypks19 and linkedin: https://www.linkedin.com/in/hari-g-krishna-a69846229/
 - 👀 Checkout my finished products.
+  
+  https://www.showwcase.com/gtrharish
 
   Project1: Beta of Fractal Fantasy Web3 site.
           https://nextjsfractalfantasy-devbranch-deployv1-harrypks19-gmailcom.vercel.app/
