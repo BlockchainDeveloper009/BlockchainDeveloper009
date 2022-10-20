@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on personal Defi projects - Debonds, write smart contracts (ERC20, ERC721, ERC 3475) using Solidity.
 - 💞️ I’m looking to collaborate on Hackathons, Build NFT projects.
 - 📫 How to reach me twitter: @harrypks19 and linkedin: https://www.linkedin.com/in/hari-g-krishna-a69846229/
+[![Harish G Krishnamurthy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-g-krishna-a69846229/)
 - 👀 Checkout my finished products.
   
   https://www.showwcase.com/gtrharish
