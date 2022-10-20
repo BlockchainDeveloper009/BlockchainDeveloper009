@@ -5,6 +5,9 @@
 - 📫 How to reach me twitter: @harrypks19 and linkedin: https://www.linkedin.com/in/hari-g-krishna-a69846229/
 - 
 [![Harish G Krishnamurthy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-g-krishna-a69846229/)
+[![Harry Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harrypks19)
+##[![Hari G Krishna StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)]##(https://stackoverflow.com/users/11969592/patrick-collins)
+
 - 👀 Checkout my finished products.
   
   https://www.showwcase.com/gtrharish
