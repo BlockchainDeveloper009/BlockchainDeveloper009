@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harish G Krishnamurthy
 - 👀 I’m interested in building Blockchain Apps.
 - 🌱 I’m currently working on personal Defi projects - Debonds, write smart contracts (ERC20, ERC721, ERC 3475) using Solidity.
-- 💞️ I’m looking to collaborate on Hackathons, Build NFT projects.
+- 💞️ I’m looking to collaborate on Hackathons, Build Defi & NFT projects.
 - 📫 How to reach me twitter: @harrypks19 and linkedin: https://www.linkedin.com/in/hari-g-krishna-a69846229/
 - 
 [![Harish G Krishnamurthy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-g-krishna-a69846229/)
