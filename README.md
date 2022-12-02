@@ -15,9 +15,11 @@
   
   https://www.showwcase.com/gtrharish
 
-  Project1: Beta of Fractal Fantasy Web3 site.
+  Project c: Exploring on Banks using D'Bond
+  Project b: Treasury Bonds creation using ERC1155
+  Project a: Beta of Fractal Fantasy Web3 site.
           https://nextjsfractalfantasy-devbranch-deployv1-harrypks19-gmailcom.vercel.app/
-  Project2: Working on Banks using D'Bond
+  
 
 <!---
 BlockchainDeveloper009/BlockchainDeveloper009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
