@@ -15,7 +15,7 @@
   
   https://www.showwcase.com/gtrharish
   
-  Project d: Create new Blockchain similar to Bitcoin
+  Project d: Create new Blockchain similar to Bitcoin. Using Blockchain bulding blocks like Cryptography | Consensus Algorithm | Peer-to-Peer | Distributed                    mechanism
               [Github Repo](https://github.com/BlockchainDeveloper009/defi_blockchain_bitcoin_network_js.git)
 
   Project c: Inherit Blocks
