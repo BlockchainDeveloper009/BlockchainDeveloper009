@@ -16,6 +16,7 @@
   https://www.showwcase.com/gtrharish
   
   Project d: Create new Blockchain similar to Bitcoin
+              [Github Repo](https://github.com/BlockchainDeveloper009/defi_blockchain_bitcoin_network_js.git)
 
   Project c: Inherit Blocks
               this smart contract is written on top of ERC20 to allow users to save their assets(for now crypto) and set a future date, when 
