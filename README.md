@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on personal Defi projects - Debonds, write smart contracts (ERC20, ERC721, ERC 3475) using Solidity.
 - 💞️ I’m looking to collaborate on Hackathons, Build Defi & NFT projects.
 - 📫 How to reach me twitter: @harrypks19 and linkedin: https://www.linkedin.com/in/hari-g-krishna-a69846229/
-- :) last but least, am also a create basic UI to connect to contracts using tools such as 
+- :) last but least, I also develop web based UI to connect to contracts on testnets using tools such as 
        "ethers.js | web3modal | wagmi | mantis | chakraui | rainbowkit"
 
 
