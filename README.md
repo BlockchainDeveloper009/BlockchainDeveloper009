@@ -20,14 +20,15 @@
   Project c: Inherit Blocks
               this smart contract is written on top of ERC20 to allow users to save their assets(for now crypto) and set a future date, when 
               system reaches that date, using chainlink, smart contract will settle the amount to Benefitor automatically.
-              https://github.com/BlockchainDeveloper009/defi_inheritBlocks_aave_cl_hd_ts
+              [Github Repo](https://github.com/BlockchainDeveloper009/defi_inheritBlocks_aave_cl_hd_ts)
   
   Project b: Treasury Bonds creation using ERC1155 - allows Bond Managers to create new bonds and sell them in market. Bond Buyers can select suitable bond,                   redeem whenver necessary before deadline.
-              https://github.com/BondBank/BondBank-Backend
-              https://www.youtube.com/watch?v=AfPyuQge0-g
+              [Github Repo](https://github.com/BondBank/BondBank-Backend)
+              [Demo Video](https://www.youtube.com/watch?v=AfPyuQge0-g)
   
   Project a: Beta of Fractal Fantasy Web3 site - NFT based authentication implemented, based on the type of NFT owned, user will be navigated to appropriate                  version of the game or type of games defined by admin.
-          https://nextjsfractalfantasy-devbranch-deployv1-harrypks19-gmailcom.vercel.app/
+             [Github Repo](https://github.com/BlockchainDeveloper009/nextjsfractalfantasy_devbranch.git)
+             [Demo App](https://nextjsfractalfantasy-devbranch-deployv1-harrypks19-gmailcom.vercel.app/)
   
 
 <!---
