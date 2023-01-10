@@ -23,11 +23,11 @@
               [Github Repo](https://github.com/BlockchainDeveloper009/defi_inheritBlocks_aave_cl_hd_ts)
   
   Project b: Treasury Bonds creation using ERC1155 - allows Bond Managers to create new bonds and sell them in market. Bond Buyers can select suitable bond,                   redeem whenver necessary before deadline.
-              [Github Repo](https://github.com/BondBank/BondBank-Backend)
+              [Github Repo](https://github.com/BondBank/BondBank-Backend) |
               [Demo Video](https://www.youtube.com/watch?v=AfPyuQge0-g)
   
   Project a: Beta of Fractal Fantasy Web3 site - NFT based authentication implemented, based on the type of NFT owned, user will be navigated to appropriate                  version of the game or type of games defined by admin.
-             [Github Repo](https://github.com/BlockchainDeveloper009/nextjsfractalfantasy_devbranch.git)
+             [Github Repo](https://github.com/BlockchainDeveloper009/nextjsfractalfantasy_devbranch.git) |
              [Demo App](https://nextjsfractalfantasy-devbranch-deployv1-harrypks19-gmailcom.vercel.app/)
   
 
