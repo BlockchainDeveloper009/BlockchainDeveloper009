@@ -14,7 +14,10 @@
 - 👀 Checkout my finished products.
   
   https://www.showwcase.com/gtrharish
+  | 
+  
   [Index to Projects](https://github.com/users/BlockchainDeveloper009/projects/2/views/2?pane=issue&itemId=29159353)  
+  | [Project notes](https://github.com/users/BlockchainDeveloper009/projects/2/views/2)
   Project d: Create new Blockchain similar to Bitcoin. Using Blockchain bulding blocks like Cryptography | Consensus Algorithm | Peer-to-Peer | Distributed                    mechanism
               [Github Repo](https://github.com/BlockchainDeveloper009/defi_blockchain_bitcoin_network_js.git)
 
