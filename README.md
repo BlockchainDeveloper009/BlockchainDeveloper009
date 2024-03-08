@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Hackathons, Build Defi & NFT projects.
 - 📫 How to reach me twitter: @harrypks19 and linkedin: https://www.linkedin.com/in/hari-g-krishna-a69846229/
 - :) last but least, I also develop web based UI to connect to contracts on testnets using tools such as 
-      ```
+      
        Frontend Tools       : "ethers.js | web3modal | wagmi | mantine | chakraui | rainbowkit"
        Languages            : "Solidity | Typescript | SQL | GRAPHQL | Rust | Python basics"
        Framework            : "Nextjs | Hardhat | Foundry"
@@ -16,7 +16,8 @@
        TESTING Lib/Frame    : "CHAI | NUNIT | PLAYWRIGHT"
        Protcols             : "Openzepplin ERC20 | ERC1155 | ERC721"
        Rpc tools            : "Alchemy | Infura | IPFS | ThirdWeb"
-     ```
+  
+      ```
         
          
   
@@ -27,7 +28,7 @@
 [Demo DApp- currently hosted_on_localhost](https://currently-localhost-will) |
 [Repo: Rust is in progress]() |
 [Repo: PythonProjects](https://github.com/BlockchainDeveloper009/pythonProjects.git)
- 
+  ```
 [![Harish G Krishnamurthy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-g-krishna-a69846229/)
 [![Harry Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harrypks19)
 <!--[![Hari G Krishna StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)]##(https://stackoverflow.com/users)
