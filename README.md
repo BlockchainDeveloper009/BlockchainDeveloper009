@@ -21,16 +21,23 @@
         
          
   
-- Recruiters / Tech Managers refer below section as Proof for my skillset:          
-[Repo: Link to SmartContract](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/dev_NewWagmiIplementation/contracts/willSettler_withMultiToken_libraryMerge_2024jan28) | 
-[contract addr - 0xE2004201614A5D19753bd0356f96296fF536E175 -Deployed to Polygon MumbaiTestnet](https://mumbai.polygonscan.com/address/0xE2004201614A5D19753bd0356f96296fF536E175)
-[Repo: Frontend - TS-Nextjs-mantine-wagmi2-ethers.js](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/phase3/graphql-implementation/frontend/will_settler_ui)
-[Demo DApp- WillSettler-Phase1](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/)) |
-[Repo: Rust is in progress]() |
-[Repo: PythonProjects](https://github.com/BlockchainDeveloper009/pythonProjects.git)
+  ### Recruiters / Tech Managers refer below section as Proof for my skillset:          
+- [Repo: Link to SmartContract](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/dev_NewWagmiIplementation/contracts/willSettler_withMultiToken_libraryMerge_2024jan28)
+ 
+- [contract addr - 0xE2004201614A5D19753bd0356f96296fF536E175 -Deployed to Polygon MumbaiTestnet](https://mumbai.polygonscan.com/address/0xE2004201614A5D19753bd0356f96296fF536E175)
+
+- [Repo: Frontend - TS-Nextjs-mantine-wagmi2-ethers.js](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/phase3/graphql-implementation/frontend/will_settler_ui)
+- [Demo DApp- WillSettler-Phase1](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
+### Highlights
   ```
-[![Harish G Krishnamurthy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-g-krishna-a69846229/)
-[![Harry Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harrypks19)
+  Routing | Api Routing | Paasing value between components/pages
+  uses posgressql | ORM - prisma | Vercel
+  ```
+- [Repo: Rust is in progress]() 
+- [Repo: PythonProjects](https://github.com/BlockchainDeveloper009/pythonProjects.git)
+  
+ [![Harish G Krishnamurthy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-g-krishna-a69846229/)
+ [![Harry Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harrypks19)
 <!--[![Hari G Krishna StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)]##(https://stackoverflow.com/users)
 -->
 - 👀 Checkout my finished products.
@@ -38,10 +45,10 @@
   https://www.showwcase.com/gtrharish
   | 
   
-  [Index to Projects](https://github.com/users/BlockchainDeveloper009/projects/2/views/2?pane=issue&itemId=29159353)  
-  | [Project notes](https://github.com/users/BlockchainDeveloper009/projects/2/views/2)
-  Project d: Create new Blockchain similar to Bitcoin. Using Blockchain bulding blocks like Cryptography | Consensus Algorithm | Peer-to-Peer | Distributed                    mechanism
-              [Github Repo](https://github.com/BlockchainDeveloper009/defi_blockchain_bitcoin_network_js.git)
+  - [Index to Projects](https://github.com/users/BlockchainDeveloper009/projects/2/views/2?pane=issue&itemId=29159353)  
+  - [Project notes](https://github.com/users/BlockchainDeveloper009/projects/2/views/2)
+  - Project d: Create new Blockchain similar to Bitcoin. Using Blockchain bulding blocks like Cryptography | Consensus Algorithm | Peer-to-Peer | Distributed                    mechanism
+  - [Github Repo](https://github.com/BlockchainDeveloper009/defi_blockchain_bitcoin_network_js.git)
 
   Project c: Inherit Blocks
               this smart contract is written on top of ERC20 to allow users to save their assets(for now crypto) and set a future date, when 
