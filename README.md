@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harish G Krishnamurthy
+- 👋 Hi, I’m Harish G Krishnamurthy, an software engineer 
 - 👀 I’m interested in building Decentralized Apps & Blockchain Protocol.
 - 🌱 I’m currently working on personal Defi projects - WillSettler, Debonds using ERC standards (ERC20, ERC721, ERC 3475) using Solidity.
 - 💞️ I’m looking to collaborate on Hackathons, Build Defi & NFT projects.
