@@ -23,7 +23,7 @@
          
   
 ### Recruiters / Tech Managers refer below section as Proof for my skillset:   
-#### Project1
+#### Project #1
 
 - [Repo: Link to WillSettler SmartContract using ERC20](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/dev_NewWagmiIplementation/contracts/willSettler_withMultiToken_libraryMerge_2024jan28)
 - [contract addr - 0xE2004201614A5D19753bd0356f96296fF536E175 -Deployed to Polygon MumbaiTestnet](https://mumbai.polygonscan.com/address/0xE2004201614A5D19753bd0356f96296fF536E175)
@@ -37,7 +37,7 @@
   ```
 - [Demo DApp- WillSettler-Phase1-Deployed on vercel](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
 
-#### Project2
+#### Project #2
 - [Demo - NFT Minting using Thirdweb-Website- Deployed on Azure](https://lively-water-090ead610.3.azurestaticapps.net)
 - [Repo]()
   ### Highlights
