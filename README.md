@@ -21,18 +21,19 @@
         
          
   
-  ### Recruiters / Tech Managers refer below section as Proof for my skillset:          
-- [Repo: Link to SmartContract](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/dev_NewWagmiIplementation/contracts/willSettler_withMultiToken_libraryMerge_2024jan28)
+### Recruiters / Tech Managers refer below section as Proof for my skillset:          
+- [Repo: Link to WillSettler SmartContract using ERC20](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/dev_NewWagmiIplementation/contracts/willSettler_withMultiToken_libraryMerge_2024jan28)
  
 - [contract addr - 0xE2004201614A5D19753bd0356f96296fF536E175 -Deployed to Polygon MumbaiTestnet](https://mumbai.polygonscan.com/address/0xE2004201614A5D19753bd0356f96296fF536E175)
 
 - [Repo: Frontend - TS-Nextjs-mantine-wagmi2-ethers.js](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/phase3/graphql-implementation/frontend/will_settler_ui)
-- [Demo DApp- WillSettler-Phase1](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
-### Highlights
+  ### Highlights
   ```
   Routing | Api Routing | Paasing value between components/pages
   uses posgressql | ORM - prisma | Vercel
   ```
+- [Demo DApp- WillSettler-Phase1](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
+
 - [Repo: Rust is in progress]() 
 - [Repo: PythonProjects](https://github.com/BlockchainDeveloper009/pythonProjects.git)
   
