@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harish G Krishnamurthy
 - 👀 I’m interested in building Decentralized Apps & Blockchain Protocol.
-- 🌱 I’m currently working on personal Defi projects - Debonds, write smart contracts (ERC20, ERC721, ERC 3475) using Solidity.
+- 🌱 I’m currently working on personal Defi projects - WillSettler, Debonds using ERC standards (ERC20, ERC721, ERC 3475) using Solidity.
 - 💞️ I’m looking to collaborate on Hackathons, Build Defi & NFT projects.
 - 📫 How to reach me twitter: @harrypks19 and linkedin: https://www.linkedin.com/in/hari-g-krishna-a69846229/
 - :) last but least, I also develop web based UI to connect to contracts on testnets using tools such as 
@@ -25,7 +25,7 @@
 [Repo: Link to SmartContract](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/dev_NewWagmiIplementation/contracts/willSettler_withMultiToken_libraryMerge_2024jan28) | 
 [contract addr - 0xE2004201614A5D19753bd0356f96296fF536E175 -Deployed to Polygon MumbaiTestnet](https://mumbai.polygonscan.com/address/0xE2004201614A5D19753bd0356f96296fF536E175)
 [Repo: Frontend - TS-Nextjs-mantine-wagmi2-ethers.js](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/phase3/graphql-implementation/frontend/will_settler_ui)
-[Demo DApp- currently hosted_on_localhost](https://currently-localhost-will) |
+[Demo DApp- WillSettler-Phase1](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/)) |
 [Repo: Rust is in progress]() |
 [Repo: PythonProjects](https://github.com/BlockchainDeveloper009/pythonProjects.git)
   ```
