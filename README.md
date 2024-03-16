@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Harish G Krishnamurthy, an software engineer 
+- 👋 Hi, I’m Harish G Krishnamurthy, an software engineer uses Playwright to automate UI flows
 - 👀 I’m interested in building Decentralized Apps & Blockchain Protocol.
 - 🌱 I’m currently working on personal Defi projects - WillSettler, Debonds using ERC standards (ERC20, ERC721, ERC 3475) using Solidity.
 - 💞️ I’m looking to collaborate on Hackathons, Build Defi & NFT projects.
@@ -7,7 +7,7 @@
 - :) last but least, I also develop web based UI to connect to contracts on testnets using tools such as 
       
        Frontend Tools       : "ethers.js | web3modal | wagmi | mantine | chakraui | rainbowkit"
-       Languages            : "Solidity | Typescript | SQL | GRAPHQL | Rust | Python basics"
+       Languages            : "Solidity | Typescript | SQL | GRAPHQL | Rust Beginner | Python Beginner"
        Framework            : "Nextjs | Hardhat | Foundry"
        Distributed Systems  : "RESTAPi | AXIOS "
        Scaling Solutions    : "ZK-Rollup"
@@ -22,21 +22,30 @@
         
          
   
-### Recruiters / Tech Managers refer below section as Proof for my skillset:          
+### Recruiters / Tech Managers refer below section as Proof for my skillset:   
+#### Project1
+
 - [Repo: Link to WillSettler SmartContract using ERC20](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/dev_NewWagmiIplementation/contracts/willSettler_withMultiToken_libraryMerge_2024jan28)
- 
 - [contract addr - 0xE2004201614A5D19753bd0356f96296fF536E175 -Deployed to Polygon MumbaiTestnet](https://mumbai.polygonscan.com/address/0xE2004201614A5D19753bd0356f96296fF536E175)
 
 - [Repo: Frontend - TS-Nextjs-mantine-wagmi2-ethers.js](https://github.com/BlockchainDeveloper009/defi_jul2_sol_hd_ts/tree/phase3/graphql-implementation/frontend/will_settler_ui)
   ### Highlights
   ```
   Routing | Api Routing | Paasing value between components/pages
-  uses posgressql | ORM - prisma | Vercel
+  uses posgressql | ORM - prisma | Vercel | CI-CD pipeline
+  wagmi | metamask
   ```
 - [Demo DApp- WillSettler-Phase1-Deployed on vercel](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
 
-- [Demo - NFT Minting usig Thirdweb-Website- Deployed on Azure](https://lively-water-090ead610.3.azurestaticapps.net)
+#### Project2
+- [Demo - NFT Minting using Thirdweb-Website- Deployed on Azure](https://lively-water-090ead610.3.azurestaticapps.net)
+- [Repo]()
+  ### Highlights
+  ```
+  Thirdweb libraries | metamask |  IPFS | Azure
+  ```
 
+#### Project3-Work in Progress
 - [Repo: Rust is in progress]() 
 - [Repo: PythonProjects](https://github.com/BlockchainDeveloper009/pythonProjects.git)
   
