@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m Harish G Krishnamurthy, an software engineer 
 - 👀 I’m interested in building Decentralized Apps & Blockchain Protocol.
 - 🌱 I’m currently working on personal Defi projects - WillSettler, Debonds using ERC standards (ERC20, ERC721, ERC 3475) using Solidity.
@@ -32,7 +33,9 @@
   Routing | Api Routing | Paasing value between components/pages
   uses posgressql | ORM - prisma | Vercel
   ```
-- [Demo DApp- WillSettler-Phase1](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
+- [Demo DApp- WillSettler-Phase1-Deployed on vercel](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
+
+- [Demo - NFT Minting usig Thirdweb-Website- Deployed on Azure](https://lively-water-090ead610.3.azurestaticapps.net)
 
 - [Repo: Rust is in progress]() 
 - [Repo: PythonProjects](https://github.com/BlockchainDeveloper009/pythonProjects.git)
