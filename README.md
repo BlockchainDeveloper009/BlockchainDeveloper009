@@ -36,6 +36,7 @@
   wagmi | metamask
   ```
 - [Demo DApp- WillSettler-Phase1-Deployed on vercel](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
+#### Project #1-a : SmartContracts_Using_Foundry_FuzzTesting_SecurityAudit
 
 #### Project #2
 - [Demo - NFT Minting using Thirdweb-Website- Deployed on Azure](https://lively-water-090ead610.3.azurestaticapps.net)
