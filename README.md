@@ -36,8 +36,8 @@
   wagmi | metamask
   ```
 - [Demo DApp- WillSettler-Phase1-Deployed on vercel](https://currently-localhost-will](https://mar-15-4-48pm.vercel.app/))
-#### Project #1-a : SmartContracts_Using_Foundry_FuzzTesting_SecurityAudit
-
+#### Project #1-B : SmartContracts_Using_Foundry_FuzzTesting_SecurityAudit
+- [Repo: SmartContracts_Sepolia_Hederra](https://github.com/BlockchainDeveloper009/defi_jul3_SmartContracts_Foundry/tree/devbr/hello_foundry/hello_foundry/src)
 #### Project #2
 - [Demo - NFT Minting using Thirdweb-Website- Deployed on Azure](https://lively-water-090ead610.3.azurestaticapps.net)
 - [Repo]()
