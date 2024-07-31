@@ -10,6 +10,7 @@
        Languages            : "Solidity | Typescript | SQL | GRAPHQL | Rust Beginner | Python Beginner"
        Framework            : "Nextjs | Hardhat | Foundry"
        Distributed Systems  : "RESTAPi | AXIOS "
+       Distributed Ledger T : Hedera Hashgraph | Polygon Matic 
        Scaling Solutions    : "ZK-Rollup"
        Query Blockcain      : "GrapQL protocol"
        CI/CD                : "AWS | AZURE | VERCEL | GIT"
