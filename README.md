@@ -79,6 +79,29 @@
              [Demo App](https://nextjsfractalfantasy-devbranch-deployv1-harrypks19-gmailcom.vercel.app/)
   
 
+
+
+# Example of TODO.md
+
+my goals for 2025
+
+View the raw content of this file to understand my future goals.
+
+### Todo
+
+- [ ] Work on the website ~3d #feat @john 2020-03-20
+- [ ] zk Starknet fb/Winterfell
+- [ ] Fix the kafka ~1d #bug @jane  
+  - [ ] Sub-task to push local blockchain on kafka | docker
+
+### In Progress
+
+- [ ] Work on Github Repo [JIRA-345]  
+
+### Done ✓
+
+- [x] build a local blockchain using RUST  
+
 <!---
 BlockchainDeveloper009/BlockchainDeveloper009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
