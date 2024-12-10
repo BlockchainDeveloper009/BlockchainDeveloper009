@@ -81,9 +81,7 @@
 
 
 
-# Example of TODO.md
-
-my goals for 2025
+# Ongoing Personal Projects
 
 View the raw content of this file to understand my future goals.
 
